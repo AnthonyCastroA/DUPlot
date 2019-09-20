@@ -1,0 +1,23 @@
+Package: DUPlot
+Type: Package
+Title: Create high impact visualizations for direct selling companies
+Version: 0.1.0
+Authors@R: c(person(given = "Erickson",
+                    family = "Sandoval",
+                    role = c("aut", "cre"),
+                    email = "erickson.sandoval@utec.edu.pe"),
+             person(given = "Pavel",
+                    family = "Cotacallapa",
+                    role = c("aut"),
+                    email = "pcotacallapa@pucp.edu.pe"),
+             person(given = "Anthony",
+                    family = "Castro",
+                    role = c("aut"),
+                    email = "amca.castro16@gmail.com"))
+Description: This package gather several visualization designs which representation lets make quick analysis and consequently take better decisions in business
+Encoding: UTF-8
+LazyData: FALSE
+Imports:
+  openxlsx, dplyr, ggalluvial, RColorBrewer, DescTools, relaimpo
+Suggests:
+  readxl
