@@ -12,5 +12,6 @@ This package gather several visualization designs which representation lets make
 \itemize{
   \item Erickson Sandoval \email{erickson.sandoval@utec.edu.pe}
   \item Pavel Cotacallapa \email{pcotacallapa@pucp.edu.pe}
+  \item Anthony Castro \email{amca.castro16@gmail.com}
 }
 }
